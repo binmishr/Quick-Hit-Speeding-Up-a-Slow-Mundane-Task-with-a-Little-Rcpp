@@ -1,0 +1,1 @@
+# Quick-Hit-Speeding-Up-a-Slow-Mundane-Task-with-a-Little-Rcpp
